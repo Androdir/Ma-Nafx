@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "manafx",
+    "name": "Ma Nafx",
     "slug": "manafx",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "androdir.manafx"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "faa52250-c6a0-4259-8717-4a056a1d4c83"
+      }
     }
   }
 }
